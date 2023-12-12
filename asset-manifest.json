@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HomeWorkSprint01_0/static/css/main.31d6cfe0.css",
+    "main.js": "/HomeWorkSprint01_0/static/js/main.6bf07a08.js",
+    "static/js/787.43dc2cab.chunk.js": "/HomeWorkSprint01_0/static/js/787.43dc2cab.chunk.js",
+    "static/media/rectangle.png": "/HomeWorkSprint01_0/static/media/rectangle.6ce1a1a5a2128ce739b1.png",
+    "index.html": "/HomeWorkSprint01_0/index.html",
+    "main.6bf07a08.js.map": "/HomeWorkSprint01_0/static/js/main.6bf07a08.js.map",
+    "787.43dc2cab.chunk.js.map": "/HomeWorkSprint01_0/static/js/787.43dc2cab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.6bf07a08.js"
+  ]
+}
