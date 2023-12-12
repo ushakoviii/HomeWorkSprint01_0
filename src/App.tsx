@@ -6,7 +6,7 @@ import {TextTitle} from "./components/StyledText";
 import {StyledButton} from "./components/StyledButton";
 import {myTheme} from "./components/myTheme";
 import {Imag} from "./components/Image";
-import rectangle from './rectangle.png';
+import rectangle from "./rectangle.png";
 
 
 function App() {
